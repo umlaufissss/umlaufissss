@@ -19,6 +19,18 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umlaufissss/umlaufissss/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umlaufissss/umlaufissss/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/umlaufissss/umlaufissss/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img align="right" height="200" src="https://media.tenor.com/DTDsj5Y-CG8AAAAi/shark.gif"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -28,18 +40,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
-
-###
-
-<img align="right" height="200" src="https://media.tenor.com/DTDsj5Y-CG8AAAAi/shark.gif"  />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umlaufissss/umlaufissss/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umlaufissss/umlaufissss/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/umlaufissss/umlaufissss/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 

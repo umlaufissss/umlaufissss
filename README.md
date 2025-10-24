@@ -6,19 +6,17 @@
 
 ###
 
-<h1 align="left">OLÁ!😺<br>Me chamo Isadora Umlauf...</h1>
+<h1 align="left">Hello pals!😺<br>I'm Isadora Umlauf...</h1>
 
 ###
 
 <br clear="both">
 
-<h3 align="left">Seja bem-vindo à minha conta!</h3>
+<h3 align="left">⚙️About Me</h3>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/20/e9/22/20e92227c9b739044e377b3567cfdac0.gif"  />
-</div>
+<p align="left">🦈 Currently working at CentroWEG as a apprentice programmer<br>🔭 I do love astronomy and sharks (as you see...)<br>⭐ Aiming to be a cybersecurity enginner</p>
 
 ###
 
@@ -45,12 +43,18 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/umlaufissss/umlaufissss/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umlaufissss/umlaufissss/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umlaufissss/umlaufissss/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/umlaufissss/umlaufissss/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/1200x/e7/bd/16/e7bd162df59535b93e134f1a548d4075.jpg"  />
 </div>
 
 ###

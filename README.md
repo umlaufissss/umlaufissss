@@ -1,11 +1,3 @@
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&color=103d91"  />
-</div>
-
-###
-
 <h1 align="left">Hello pals!😺<br>I'm Isadora Umlauf...</h1>
 
 ###
@@ -54,7 +46,13 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/1200x/e7/bd/16/e7bd162df59535b93e134f1a548d4075.jpg"  />
+  <img height="200" src="https://i.pinimg.com/1200x/2e/67/26/2e67267bc8d1084df42f26b57178228e.jpg"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###

@@ -44,13 +44,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/umlaufissss/umlaufissss/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/1200x/a6/b9/d7/a6b9d783fe0086027b503f3ed169e549.jpg"  />
+  <img height="200" src="https://i.pinimg.com/1200x/e7/bd/16/e7bd162df59535b93e134f1a548d4075.jpg"  />
 </div>
 
 ###

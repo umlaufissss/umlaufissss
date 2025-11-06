@@ -44,7 +44,7 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <img src="https://raw.githubusercontent.com/umlaufissss/umlaufissss/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###

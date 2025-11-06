@@ -49,14 +49,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/1200x/2e/67/26/2e67267bc8d1084df42f26b57178228e.jpg"  />
-</div>
-
-###
-
 <div align="center">
   <img height="200" src="https://i.pinimg.com/1200x/a6/b9/d7/a6b9d783fe0086027b503f3ed169e549.jpg"  />
 </div>
